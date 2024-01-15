@@ -1,4 +1,4 @@
-![StevenTeteSVG](Img)
+![StevenTeteSVG](/img/StevenTeteCode.svg)
 
 ```js
 const myGitHubProfile = {
