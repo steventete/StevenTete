@@ -3,12 +3,6 @@
   <img width=130% src="https://capsule-render.vercel.app/api?type=waving&color=0c7ae8&height=120&section=header"/>
 </a>
 
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0c7ae8&size=35&center=true&vCenter=true&width=1000&duration=2000&lines=Hey+What's+Up!👋;+I'm+StevenTete👨🏽‍💻;I'm+from+Colombia💛;I'm+a+FrontEnd++Developer💻;And+I+love+to+learning!+</>;)
-
-<br>
-<br>
-
 <div style="display: inline_block">
   <p align="center">
     <a href="#">
@@ -47,7 +41,17 @@
   </p>
 </div>
 
-<br><br>
+```js
+const myGitHubProfile = {
+  greeting: "👋 Hey whats up?, I’m @StevenTete!",
+  interests: "👀 I’m interested in FrontEnd Web Development",
+  learning: "🌱 I’m currently learning Angular",
+  contact: "📫 You can reach me mailing me at tetesteven37@gmail.com",
+  funFact: "⚡ Fun fact: I code this while I was sleeping😴"
+}
+```
+
+<br>
 
 <div> 
   <p align="center">
