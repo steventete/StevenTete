@@ -1,24 +1,24 @@
 ```js
 const StevenTeteProfile = {
   greeting: "👋 Hey whats up?, I’m @StevenTete!",
-  goal: "🏆 I’m gonna be a Fullstack Developer",
+  goal: "I’m gonna be a Fullstack Developer",
   stack: [
-    { name: "🌐 HTML", type: "Frontend" },
-    { name: "🎨 CSS", type: "Frontend" },
-    { name: "🅱️ BootStrap", type: "Frontend" },
-    { name: "🌬️ TailwindCSS", type: "Frontend" },
-    { name: "🚀 Astro", type: "Frontend" },
-    { name: "🟡 JavaScript", type: "Frontend" },
-    { name: "💙 TypeScript", type: "Frontend" },
-    { name: "🐘 PHP", type: "Backend" },
-    { name: "🗃️ MySQL", type: "Database" },
-    { name: "🔢 C#", type: "Backend" },
-    { name: "📱 .NET MAUI", type: "Mobile" }
+    { name: "HTML", type: "Frontend" },
+    { name: "CSS", type: "Frontend" },
+    { name: "BootStrap", type: "Frontend" },
+    { name: "TailwindCSS", type: "Frontend" },
+    { name: "Astro", type: "Frontend" },
+    { name: "JavaScript", type: "Frontend" },
+    { name: "TypeScript", type: "Frontend" },
+    { name: "PHP", type: "Backend" },
+    { name: "MySQL", type: "Database" },
+    { name: "C#", type: "Backend" },
+    { name: ".NET MAUI", type: "Mobile" }
   ],
-  learning: "🌱 I’m currently learning React",
-  offTopic: "📽 I'm tech content creator on YouTube, I talk about smartphones, apps and tricks",
-  funFact: "⚡ I'm writing this while sleeping😴",
-  contact: "📫 You can reach me mailing me at tetesteven37@gmail.com"
+  learning: "I’m currently learning React",
+  offTopic: "I'm tech content creator on YouTube, I talk about smartphones, apps and tricks",
+  funFact: "I'm writing this while sleeping!",
+  contact: "You can reach me mailing me at tetesteven37@gmail.com"
 }
 ```
 
