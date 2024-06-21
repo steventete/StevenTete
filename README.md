@@ -3,8 +3,8 @@ const StevenTeteProfile = {
   greeting: "👋 Hey whats up?, I’m @StevenTete!",
   goal: "I’m gonna be a Fullstack Developer",
   stack: [
-    { name: "TailwindCSS", type: "Frontend" },
     { name: "Astro", type: "Frontend" },
+    { name: "TailwindCSS", type: "Frontend" },
     { name: "JavaScript", type: "Frontend" },
     { name: "PHP", type: "Backend" },
     { name: "MySQL", type: "Database" },
