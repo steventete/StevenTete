@@ -1,5 +1,5 @@
 ```js
-const StevenTeteProfile = {
+const profile = {
   greeting: "👋 Hey whats up?, I’m @StevenTete!",
   goal: "I’m gonna be a Fullstack Developer",
   stack: [
@@ -8,8 +8,7 @@ const StevenTeteProfile = {
     { name: "JavaScript", type: "Frontend" },
     { name: "PHP", type: "Backend" },
     { name: "MySQL", type: "Database" },
-    { name: "C#", type: "Backend" },
-    { name: ".NET MAUI", type: "Mobile" }
+    { name: "C#", type: "Backend" }
   ],
   learning: "I’m currently learning React",
   offTopic: "I'm tech content creator on YouTube, I talk about smartphones, apps and tricks",
