@@ -1,6 +1,5 @@
-<div style="display: flex; align-items: center;">
-<img src="src/gifs/working-developer.gif" alt="Name gif" style="width: 40%; object-fit: cover">
-<img src="src/gifs/presentation.gif" alt="Name gif" style="width: 50%">
+<div style="margin-bottom: -50px">
+<img src="src/gifs/presentation.gif" alt="Name gif" style="width: 100%">
 </div>
 
 <div align="center">
@@ -14,6 +13,8 @@
       <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
     </a>
 </div>
+
+<div style="margin-bottom: 15px"></div>
 
 ```js
 const stack = [
