@@ -1,5 +1,5 @@
 <div style="margin-bottom: -50px">
-<img src="src/gifs/presentation.gif" alt="Name gif">
+<img src="src/gifs/presentation.gif" alt="Name gif" style="object-fit: contain;">
 </div>
 
 <div align="center">
