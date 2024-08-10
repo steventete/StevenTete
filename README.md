@@ -1,21 +1,7 @@
-```js
-const profile = {
-  greeting: "👋 Hey whats up?, I’m @StevenTete!",
-  goal: "I’m gonna be a Fullstack Developer",
-  stack: [
-    { name: "Astro", type: "Frontend" },
-    { name: "TailwindCSS", type: "Frontend" },
-    { name: "JavaScript", type: "Frontend" },
-    { name: "PHP", type: "Backend" },
-    { name: "MySQL", type: "Database" },
-    { name: "C#", type: "Backend" }
-  ],
-  learning: "I’m currently learning React",
-  offTopic: "I'm tech content creator on YouTube, I talk about smartphones, apps and tricks",
-  funFact: "I'm writing this while sleeping!",
-  contact: "You can reach me mailing me at tetesteven37@gmail.com"
-}
-```
+<div style="display: flex; align-items: center;">
+<img src="src/gifs/working-developer.gif" alt="Name gif" style="width: 40%; object-fit: cover">
+<img src="src/gifs/presentation.gif" alt="Name gif" style="width: 50%">
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/steventete/">
@@ -29,6 +15,15 @@ const profile = {
     </a>
 </div>
 
-
-
-
+```js
+const stack = [
+  { name: "React", type: "Frontend" },
+  { name: "Astro", type: "Frontend" },
+  { name: "TailwindCSS", type: "Frontend" },
+  { name: "JavaScript", type: "Frontend" },
+  { name: "Node.js", type: "Backend" },
+  { name: "PHP", type: "Backend" },
+  { name: "MySQL", type: "Database" },
+  { name: "Xamarin - MAUI", type: "Mobile" },
+];
+```
