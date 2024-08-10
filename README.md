@@ -1,5 +1,5 @@
 <div style="margin-bottom: -50px">
-<img src="src/gifs/presentation.gif" alt="Name gif" style="width: 100%">
+<img src="src/gifs/presentation.gif" alt="Name gif">
 </div>
 
 <div align="center">
