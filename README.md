@@ -1,5 +1,5 @@
 <div style="margin-bottom: -50px">
-<img src="src/gifs/presentation.gif" alt="Name gif" style="object-fit: contain;">
+<img src="src/gifs/presentation.gif" alt="Name gif" style="object-fit: contain; margin-top: -40px">
 </div>
 
 <div align="center">
@@ -13,8 +13,6 @@
       <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
     </a>
 </div>
-
-<div style="margin-bottom: 15px"></div>
 
 ```js
 const stack = [
