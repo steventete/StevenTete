@@ -1,5 +1,5 @@
 <div style="margin-bottom: -50px; display: flex; justify-content: center;">
-<img src="src/gifs/Steven Tete.gif" alt="Name gif" style="object-fit: contain; margin-top: -40px; margin-bottom: 80px;">
+<img src="src/gifs/Steven Tete.gif" alt="Name gif" style="object-fit: contain; margin-top: 0px; margin-bottom: 80px;">
 </div>
 
 ```js
