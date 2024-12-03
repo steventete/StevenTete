@@ -1,16 +1,23 @@
-<h1 align="center">About me</h1>
-<img style="height: 170px; width: 100%; object-fit: cover;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzEyNml0bXEweXF5em4zbzM3OXpvcjVuOHI0MTl1am4wNXpxMmkxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.webp">
+<h1 align="center">
+<img src="./src/about-me.gif">
+About me</h1>
 <p align="center">Hello, I'm Steven Tete, a Systems Engineering student from Colombia. I have a strong passion for web development, particularly front-end, although I also have experience with back-end technologies, making me a full-stack developer. I focus on creating beautiful and efficient solutions that enhance user experience and optimize web application performance.</p>
 
 
 
-<h1 align="center">Skills</h1>
+<h1 align="center">
+<img src="./src/skills.gif">
+Skills
+</h1>
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,tailwind,react,astro,nodejs,bun,express,mysql,php,python,net,git)](https://skillicons.dev)
 </div>
 
-<h1 align="center">Offtopic</h1>
+<h1 align="center">
+<img src="./src/offtopic.gif">
+Offtopic
+</h1>
 <p align="center">I am a passionate tech content creator behind the SimpleTTech channel, where I share in-depth smartphone reviews, the latest tech news, and practical tips and tricks to help everyone get the most out of their devices. My goal is to simplify technology and make it accessible to everyone, regardless of their experience level. Check my channel! 👇</p>
 
 <div align="center">
@@ -19,7 +26,10 @@
 </a>
 </div>
 
-<h1 align="center">Contact</h1>
+<h1 align="center">
+<img src="./src/contact.gif">
+Contact
+</h1>
 <div align="center">
 
   <a href="https://www.linkedin.com/in/steventete/">
