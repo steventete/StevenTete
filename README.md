@@ -1,34 +1,35 @@
-<div style="margin-bottom: -50px; display: flex; justify-content: center;">
-<img src="src/gifs/Steven Tete.gif" alt="Name gif" style="object-fit: contain; margin-top: 0px; margin-bottom: 80px;">
+<h1 align="center">About me</h1>
+<img style="height: 170px; width: 100%; object-fit: cover;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzEyNml0bXEweXF5em4zbzM3OXpvcjVuOHI0MTl1am4wNXpxMmkxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.webp">
+<p align="center">Hello, I'm Steven Tete, a Systems Engineering student from Colombia. I have a strong passion for web development, particularly front-end, although I also have experience with back-end technologies, making me a full-stack developer. I focus on creating beautiful and efficient solutions that enhance user experience and optimize web application performance.</p>
+
+
+
+<h1 align="center">Skills</h1>
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,tailwind,react,astro,nodejs,bun,express,mysql,php,python,net,git)](https://skillicons.dev)
 </div>
 
-```js
-const githubProfile =
-{ 
-  name: "Steven Tete",
-  location: "Colombia 🇨🇴",
-  hireable: true,
-  stack: [
-  { name: "React", type: "Frontend" },
-  { name: "Astro", type: "Frontend" },
-  { name: "TailwindCSS", type: "Frontend" },
-  { name: "JavaScript", type: "Frontend" },
-  { name: "Node.js", type: "Backend" },
-  { name: "PHP", type: "Backend" },
-  { name: "MySQL", type: "Database" },
-  { name: "Xamarin - MAUI", type: "Mobile" },
-  ]
-}
-```
+<h1 align="center">Offtopic</h1>
+<p align="center">I am a passionate tech content creator behind the SimpleTTech channel, where I share in-depth smartphone reviews, the latest tech news, and practical tips and tricks to help everyone get the most out of their devices. My goal is to simplify technology and make it accessible to everyone, regardless of their experience level. Check my channel! 👇</p>
 
 <div align="center">
+<a href="https://www.youtube.com/@SimpleTTech">
+<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
+</a>
+</div>
+
+<h1 align="center">Contact</h1>
+<div align="center">
+
   <a href="https://www.linkedin.com/in/steventete/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+  <img src="https://skillicons.dev/icons?i=linkedin">
   </a>
+
   <a href="mailto:tetesteven37@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23333.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
+  <img src="https://skillicons.dev/icons?i=gmail">
   </a>
-    <a href="https://www.youtube.com/@SimpleTTech">
-      <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
-    </a>
+
+  <a href="https://www.instagram.com/steventetev">
+  <img src="https://skillicons.dev/icons?i=instagram">
 </div>
